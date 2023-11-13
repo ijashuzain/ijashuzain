@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ijashuzain.ijashuzain&left_color=black&right_color=darkslateblue"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -66,7 +74,9 @@
   <a href="https://www.instagram.com/ijas.huzain/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.me/+919037190469" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
   <a href="ijashussain3@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
