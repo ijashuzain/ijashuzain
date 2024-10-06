@@ -1,88 +1,57 @@
-<br clear="both">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ijashuzain.ijashuzain&left_color=black&right_color=darkslateblue)
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ijashuzain.ijashuzain&left_color=black&right_color=darkslateblue"  />
-</div>
+# Ijas Hussain
+## Mobile App Developer | Specialised in Flutter
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijashuzain/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ijashuzain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijashussain3@gmail.com)
 
-<h1 align="left">Hey 👋 What's up?</h1>
+---
 
-###
+### About Me
 
-<p align="left">As a Mobile App Developer specialised in Flutter Framework, I have honed my skills in designing, developing, and deploying mobile applications across various platforms including iOS and Android.</p>
+Experienced Mobile App Developer specializing in Flutter framework, with a proven track record in designing, developing, and deploying cross-platform applications for iOS and Android. Passionate about creating efficient, user-friendly, and innovative mobile solutions.
 
-###
+- 🚀 Developing mobile applications since 2019
+- 📚 Currently expanding skills in Swift and iOS development
+- 🎯 Aspiring to achieve full-stack proficiency in both web and mobile technologies
+- 🛠️ Creator of open-source Flutter packages
 
-<h2 align="left">About me</h2>
+---
 
-###
+### Technical Expertise
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Swift and iOS development<br>🎯 Goals: To achieve expertise in full-stack development for both web and mobile platforms<br>🎲 Fun fact: Started my journey in coding with a curiosity that turned into a passion for both mobile and web technologies. I enjoy exploring the endless possibilities in the digital world!</p>
+- **Mobile Development:** Flutter, Android (Java/Kotlin), iOS (Swift)
+- **Web Technologies:** JavaScript, React
+- **Backend & Database:** Firebase, Node.js, MongoDB
+- **Version Control:** Git
+- **Design Tools:** Figma, Adobe Illustrator
+- **IDEs:** Android Studio, Xcode, Visual Studio Code
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### Open-Source Contributions
 
-###
+I'm passionate about contributing to the Flutter community. Check out my open-source packages:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+- [y_player](https://pub.dev/packages/y_player) - A customizable YouTube player for Flutter applications
+- [the_responsive_builder](https://pub.dev/packages/the_responsive_builder) - A Flutter package for building responsive layouts with ease
+- [flutter_windowmanager_plus](https://pub.dev/packages/flutter_windowmanager_plus) - A Flutter plugin for managing window properties and security features
 
-###
+---
 
-<h2 align="left"></h2>
+### Professional Goals
 
-###
+- Enhance expertise in full-stack development for seamless integration of mobile and web technologies
+- Contribute to open-source projects to foster innovation in the developer community
+- Stay updated with emerging technologies and industry best practices
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ijashuzain/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/ijashuzain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/ijas.huzain/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/+919037190469" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="ijashussain3@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="ijashussain@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+---
 
-###
+### Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919037190469)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ijas.huzain/)
