@@ -25,10 +25,10 @@ Experienced Mobile App Developer specializing in Flutter framework, with a prove
 ### Technical Expertise
 
 - **Mobile Development:** Flutter, Android (Java/Kotlin), iOS (Swift)
-- **Web Technologies:** JavaScript, React
-- **Backend & Database:** Firebase, Node.js, MongoDB
+- **Web Technologies:** ReactJs
+- **Backend & Database:** Python Django, Node.js, Firebase, PostgreSQL, MongoDB
 - **Version Control:** Git
-- **Design Tools:** Figma, Adobe Illustrator
+- **Design Tools:** Figma, XD, Adobe Illustrator
 - **IDEs:** Android Studio, Xcode, Visual Studio Code
 
 ---
