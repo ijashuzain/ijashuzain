@@ -1,5 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ijashuzain.ijashuzain&left_color=black&right_color=darkslateblue)
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34816)](https://codetime.dev)
+
 # Ijas Hussain
 ## Mobile App Developer | Specialised in Flutter
 
